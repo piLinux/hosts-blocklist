@@ -1,0 +1,7 @@
+#################################[INFO]##################################
+# Blocks ads, fake sites, shock sites, malware hosts and trackers
+# This hostfiles aim is not to break any useful websites
+# Submit a issue on Github in case of any false or missing hosts
+################################[INSTALL]################################
+
+redir.bebi.com
