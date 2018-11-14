@@ -6,11 +6,13 @@
 
 https://raw.githubusercontent.com/piLinux/hosts-blocklist/master/Blocked_Hosts
 
+https://raw.githubusercontent.com/piLinux/hosts-blocklist/master/StevenBlack_modified_hosts
+
+[(StevenBlack Unified hosts + fakenews) - (piLinux Whitelist)]
+
 #### External blocklists (all should be used in parallel for maximum protection)
 
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 https://mirror1.malwaredomains.com/files/justdomains
 
