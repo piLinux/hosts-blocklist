@@ -2,6 +2,18 @@
 
 ### A comprehensive list of scam, adware, malware, trackers
 
+#### Blackhole of Internet: A single file that blocks all known threats!
+
+https://raw.githubusercontent.com/piLinux/hosts-blocklist/master/blackhole_of_internet
+
+(You should avoid using any other files listed below when you use
+the blackhole of Internet.)
+
+-------
+
+If you want to add all the blocklists maintained by different contributors,
+please check the following lists.
+
 #### Files maintained in this repository
 
 https://raw.githubusercontent.com/piLinux/hosts-blocklist/master/Blocked_Hosts
@@ -35,8 +47,6 @@ https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/list.txt
 https://raw.githubusercontent.com/kowith337/ThaiConsentHosts/master/ThaiConsentHosts.txt
 
 https://gist.githubusercontent.com/BBcan177/2a9fc2548c3c5a5e2dc86e580b5795d2/raw/2f5c90ffb3bd02199ace1b16a0bd9f53b29f0879/EasyList_DE
-
-https://github.com/piLinux/hosts-blocklist/raw/master/Blocked_Hosts
 
 http://someonewhocares.org/hosts/hosts
 
