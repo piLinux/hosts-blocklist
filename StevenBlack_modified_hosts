@@ -9686,10 +9686,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 click-see-save.com
 0.0.0.0 clickserve.cc-dt.com
-0.0.0.0 clickserve.dartsearch.net
-0.0.0.0 clickserve.eu.dartsearch.net
-0.0.0.0 clickserve.uk.dartsearch.net
-0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 clickserv.sitescout.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.minimob.com
@@ -10224,7 +10220,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fdimages.fairfax.com.au
 0.0.0.0 federaldata.io
 0.0.0.0 feed.4wnet.com
-0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedbackcensus.com
 0.0.0.0 feeds.videosz.com
 0.0.0.0 feeds.weselltraffic.com
@@ -11125,7 +11120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m2.media-box.co
 0.0.0.0 m2.sexgarantie.nl
 0.0.0.0 m3.2mdn.net
-0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 m4.media-box.co
 0.0.0.0 m4ymh0220.tech
 0.0.0.0 maaxmarket.com
@@ -11310,16 +11304,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mightymagoo.com
 0.0.0.0 mii-image.adjuggler.com
 0.0.0.0 milyondolar.com
-0.0.0.0 mimageads1.googleadservices.com
-0.0.0.0 mimageads2.googleadservices.com
-0.0.0.0 mimageads3.googleadservices.com
-0.0.0.0 mimageads4.googleadservices.com
-0.0.0.0 mimageads5.googleadservices.com
-0.0.0.0 mimageads6.googleadservices.com
-0.0.0.0 mimageads7.googleadservices.com
-0.0.0.0 mimageads8.googleadservices.com
-0.0.0.0 mimageads9.googleadservices.com
-0.0.0.0 mimageads.googleadservices.com
 0.0.0.0 mimicrice.com
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mirror.pointroll.com
@@ -11371,7 +11355,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 movsflix.com
 0.0.0.0 mozebyctwoje.com
 0.0.0.0 mp3playersource.com
-0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 m.pl.pornzone.tv
 0.0.0.0 mp.tscapeplay.com
 0.0.0.0 mpv.sandai.net
@@ -13957,7 +13940,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.go-free-gifts.com
 0.0.0.0 www.gofreegifts.com
 0.0.0.0 www.goody-garage.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googmel.win
 0.0.0.0 www.gopopup.com
@@ -14173,7 +14155,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.optiad.net
 0.0.0.0 www.paperg.com
 0.0.0.0 www.parsads.com
-0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.partycasino.com
 0.0.0.0 www.pathforpoints.com
 0.0.0.0 www.paypopup.com
@@ -22000,9 +21981,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com  #[affects Google Trends]
-0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 partner.googleadservices.com
 0.0.0.0 domains.googlesyndication.com  #[Parking Service]
 0.0.0.0 www.linksalpha.com
 # [Gossamer][AS36483][172.255.48.0 - 172.255.63.255]
@@ -29716,7 +29694,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 go2affise.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 gondolagnome.com
-0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com

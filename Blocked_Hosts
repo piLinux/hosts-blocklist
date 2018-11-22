@@ -4,5 +4,7 @@
 # Submit a issue on Github in case of any false or missing hosts
 ################################[INSTALL]################################
 
-bodelen.com
-redir.bebi.com
+0.0.0.0 bodelen.com
+:: bodelen.com
+0.0.0.0 redir.bebi.com
+:: redir.bebi.com
