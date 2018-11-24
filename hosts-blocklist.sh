@@ -152,13 +152,16 @@ sed -e 's/^/0.0.0.0 /' Dawsey21.main-blacklist.txt.tmp2 > Dawsey21.main-blacklis
 sed -e 's/^/:: /' Dawsey21.main-blacklist.txt.tmp2 >> Dawsey21.main-blacklist.txt.tmp
 grep -Fvxf blackhole_of_internet Dawsey21.main-blacklist.txt.tmp >> blackhole_of_internet
 
-# Revision 0.1
+# Revision 0.2
 sort -u blackhole_of_internet -o blackhole_of_internet.tmp
 sed -i -e 's/[[:space:]]*$//' blackhole_of_internet.tmp
 rm blackhole_of_internet
+touch blackhole_of_internet2
+awk '! a[$0]++' blackhole_of_internet.tmp > blackhole_of_internet2
 touch blackhole_of_internet
-grep -Fvxf Whitelist blackhole_of_internet.tmp > blackhole_of_internet
-rm blackhole_of_internet.tmp
+grep -Fvxf Whitelist blackhole_of_internet2 > blackhole_of_internet
+rm blackhole_of_internet.tmp \
+blackhole_of_internet2
 
 rm StevenBlack_hosts \
 notracking.hostnames.txt \
