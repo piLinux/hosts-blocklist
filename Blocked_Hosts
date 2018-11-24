@@ -4,6 +4,8 @@
 # Submit a issue on Github in case of any false or missing hosts
 ################################[INSTALL]################################
 
+0.0.0.0 acrohnabacility.info
+:: acrohnabacility.info
 0.0.0.0 andnroid.com
 :: andnroid.com
 0.0.0.0 bodelen.com
