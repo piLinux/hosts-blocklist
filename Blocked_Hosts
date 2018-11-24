@@ -4,7 +4,17 @@
 # Submit a issue on Github in case of any false or missing hosts
 ################################[INSTALL]################################
 
+0.0.0.0 andnroid.com
+:: andnroid.com
 0.0.0.0 bodelen.com
 :: bodelen.com
+0.0.0.0 gcoog1e.com
+:: gcoog1e.com
+0.0.0.0 gocqle.com
+:: gocqle.com
+0.0.0.0 messengner.com
+:: messengner.com
 0.0.0.0 redir.bebi.com
 :: redir.bebi.com
+0.0.0.0 wtahsapp.com
+:: wtahsapp.com
